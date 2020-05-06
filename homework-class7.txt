@@ -1,0 +1,15 @@
+1. Install nodejs and npm -> https://blog.teamtreehouse.com/install-node-js-npm-windows
+2. Unzip the folder
+3. Change the envionment.ts (file in the \src\environments path)
+3. Go to the folder, open command prompt and run the following commands:
+	a. npm install
+	b. npm start
+4. Register a new user
+5. Login -> For the first you won't see the idToken value.
+6. Logout and Login again.
+7. You will see the idToken. Copy the value and use it in your rest api.
+
+Email me (supal.iut03@gmail.com) with subject: Backend home work 7
+(also share the swagger link in slack)
+	1. The swagger link
+	2. The environment.ts file

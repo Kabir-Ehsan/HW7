@@ -1,0 +1,24 @@
+Java Backend - Homework - Class 6 - File Upload
+
+Share the swagger link...
+
+Level 1: Create 4 apis to
+	a. upload a file
+	b. view the file
+	c. download the file
+	d. delete the file
+
+Level 2: 
+
+	a. Create a File model with the following attributes:
+		i.  	key
+		ii. 	bucket
+		iii.	status
+
+	b. When a file is uploaded insert/upload entry with:
+		key	bucket	"V"
+
+	c. When a file is deleted update entry with:
+		key	bucket	"D"
+
+	d. Do not allow user to upload file if key is same 
